@@ -6,6 +6,6 @@
 # Downloads
 
 [Modrinth](https://modrinth.com/resourcepack/create-world-of-color) <br>
-[Curseforge](https://www.curseforge.com/minecraft/texture-packs/create-world-of-color) <br>
-[PlanetMinecraft](https://www.planetminecraft.com/texture-pack/create-world-of-color/) <br>
+[Curseforge](https://www.curseforge.com/minecraft/texture-packs/create-world-of-color) (Deprecated) <br>
+[PlanetMinecraft](https://www.planetminecraft.com/texture-pack/create-world-of-color/) (Deprecated) <br>
 [Github](https://github.com/soapinamicrowave/createworldofcolor/archive/refs/heads/main.zip) (Latest commit, but needs file editing and re-zipping.)
